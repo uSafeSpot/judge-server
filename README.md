@@ -1,2 +1,2 @@
 # judge-server
-A judging server for online judges by python
+A judging server for online judges
